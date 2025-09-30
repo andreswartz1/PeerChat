@@ -1,7 +1,7 @@
 let APP_ID = "1e3054726d9e479e8deb796574c20565"
 
 
-let token = null;
+let token = "007eJxTYDj37+nO6JVKpaEMK5pZtYofeIZd33x3S39B+lnjO7ZN/xgUGAxTjQ1MTcyNzFIsU03MLVMtUlKTzC3NTM1Nko0MTM1MDzrcyWgIZGR4FraFkZEBAkF8DoaA1NQi54zEEgYGAC8WIg0=";
 let uid = String(Math.floor(Math.random() * 10000))
 
 let client;
